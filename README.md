@@ -1,0 +1,14 @@
+# Awesome DeepInfer
+
+整理 DeepInfer 的源码、文档、教程与实践资料。
+
+## 官方
+
+- [DeepInfer](https://github.com/deepseek-ai/DeepInfer)：DeepSeek 开源推理框架。
+
+## 学习
+
+- [深入理解 DeepInfer](https://github.com/Alexander-Qiu/understanding-deepinfer)：源码阅读与原理解析，持续建设中。
+- [nano-deepinfer](https://github.com/Alexander-Qiu/nano-deepinfer)：由 Codex vibe coding 生成的最小 CPU 教学实现。
+
+欢迎通过 PR 补充有来源、可核实的资料。
