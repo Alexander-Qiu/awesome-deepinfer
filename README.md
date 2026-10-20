@@ -1,5 +1,7 @@
 # Awesome DeepInfer
 
+由 **OpenAI Codex** 生成，先 vibe coding 占个位，内容待完善，仅供学习参考。
+
 整理 DeepInfer 的源码、文档、教程与实践资料。
 
 ## 官方
